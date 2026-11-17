@@ -4,7 +4,7 @@ Cloud Native · AI Infrastructure · Reliability Engineering
 
 ## About Me
 
-I'm a platform engineer. I build infrastructure that helps teams ship applications, run machine learning workloads, and operate production services.
+I'm a platform engineer with nine years of experience in backend systems and infrastructure. I've worked on distributed storage, recommendation infrastructure, Kubernetes application delivery, and platforms for training and serving machine learning models. My experience also includes observability and incident response.
 
 I'm an open-source contributor to the following projects.
 
@@ -32,13 +32,6 @@ I focus on connecting alerts with telemetry and recent changes so on-call engine
 ### Agent Runtimes and Sandboxes
 
 I'm interested in how agents run tools and code in isolated environments. That includes provisioning, resource limits, and cleanup, as well as how runtime APIs give callers a consistent way to manage those environments.
-
-## Background
-
-- **Soul App** — Led projects for a machine learning platform and a Kubernetes application delivery platform. Also contributed to incident management and internal tooling for building agents.
-- **Xiaohongshu** — Worked on Kubernetes release tooling and production reliability, including progressive rollouts, release risk checks, and alerting.
-- **Qutoutiao** — Worked on infrastructure for recommendation services, including containerized deployment and model parameter serving.
-- **Bilibili** — Developed and operated a distributed file storage service and helped build workflows for handling user reports and appeals.
 
 ## Contact
 
