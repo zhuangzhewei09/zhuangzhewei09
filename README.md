@@ -6,6 +6,12 @@ Cloud Native · AI Infrastructure · Reliability Engineering
 
 I'm a platform engineer with nine years of experience in backend systems and infrastructure. I've worked on distributed storage, recommendation infrastructure, Kubernetes application delivery, and platforms for training and serving machine learning models. My experience also includes observability and incident response.
 
+### Open to Opportunities
+
+I'm currently looking for SRE and infrastructure software engineering roles in Shanghai or Hangzhou.
+
+## Open Source Contributions
+
 I'm an open-source contributor to the following projects.
 
 ### Cloud Native and AI Infrastructure
@@ -22,10 +28,6 @@ I'm an open-source contributor to the following projects.
 
 - [TiDB](https://github.com/pingcap/tidb) is a distributed SQL database with MySQL compatibility and support for transactional and analytical workloads.
 - [TiKV](https://github.com/tikv/tikv) is a distributed key-value database that supports ACID transactions and horizontal scaling.
-
-### Looking for a Job
-
-I'm currently looking for SRE and infrastructure software engineering roles in Shanghai or Hangzhou.
 
 ## What I Focus On
 
