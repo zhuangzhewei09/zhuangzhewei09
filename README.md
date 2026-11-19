@@ -4,6 +4,8 @@ Cloud Native · AI Infrastructure · Reliability Engineering
 
 ## About Me
 
+I'm currently looking for SRE and infrastructure software engineering roles in Shanghai or Hangzhou.
+
 I'm a platform engineer with nine years of experience in backend systems and infrastructure. I've worked on distributed storage, recommendation infrastructure, Kubernetes application delivery, and platforms for training and serving machine learning models. My experience also includes observability and incident response.
 
 I'm an open-source contributor to the following projects.
@@ -40,10 +42,3 @@ I'm interested in how agents run tools and code in isolated environments. That i
 ```bash
 echo -n 'MTc2MjExNTY0MDMK' | base64 -d
 ```
-
-## GitHub Metrics
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhuangzhewei09&amp;theme=github_dark">
-  <img alt="GitHub statistics for zhuangzhewei09" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zhuangzhewei09&amp;theme=github">
-</picture>
