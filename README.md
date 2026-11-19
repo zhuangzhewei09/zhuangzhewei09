@@ -10,12 +10,20 @@ I'm a platform engineer with nine years of experience in backend systems and inf
 
 I'm an open-source contributor to the following projects.
 
-- [OpenKruise Agents](https://github.com/openkruise/agents)
-- [Kthena](https://github.com/volcano-sh/kthena)
-- [KubeRay](https://github.com/kuberay-project/kuberay)
-- [Open Code Review](https://github.com/alibaba/open-code-review)
-- [TiDB](https://github.com/pingcap/tidb)
-- [TiKV](https://github.com/tikv/tikv)
+### Cloud Native and AI Infrastructure
+
+- [OpenKruise Agents](https://github.com/openkruise/agents) manages the lifecycle of AI agent sandboxes on Kubernetes.
+- [Kthena](https://github.com/volcano-sh/kthena) provides model lifecycle management and request routing for LLM inference on Kubernetes.
+- [KubeRay](https://github.com/kuberay-project/kuberay) deploys and manages Ray clusters, jobs, and serving applications on Kubernetes.
+
+### Developer Tools
+
+- [Open Code Review](https://github.com/alibaba/open-code-review) combines deterministic analysis with LLM agents to automate code reviews.
+
+### Distributed Databases
+
+- [TiDB](https://github.com/pingcap/tidb) is a distributed SQL database with MySQL compatibility and support for transactional and analytical workloads.
+- [TiKV](https://github.com/tikv/tikv) is a distributed key-value database that supports ACID transactions and horizontal scaling.
 
 ## What I Focus On
 
