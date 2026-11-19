@@ -8,7 +8,7 @@ I'm a platform engineer with nine years of experience in backend systems and inf
 
 ### Looking for a Job
 
-I'm currently looking for SRE and infrastructure software engineering roles in Shanghai or Hangzhou.
+I'm currently looking for SRE or AI infrastructure engineering roles in Shanghai or Hangzhou, with a focus on infrastructure automation, workload orchestration, and lifecycle management.
 
 ## Open Source Contributions
 
@@ -33,7 +33,7 @@ I'm an open-source contributor to the following projects.
 
 ### AI Infrastructure
 
-I focus on GPU scheduling, training jobs, and model serving on Kubernetes, with an emphasis on efficient resource use and reliable operation.
+I focus on orchestrating training and inference workloads on Kubernetes and managing their lifecycle, including scheduling, deployment, scaling, and recovery.
 
 ### Kubernetes and Progressive Delivery
 
