@@ -4,7 +4,9 @@ Cloud Native · AI Infrastructure · Reliability Engineering
 
 ## About Me
 
-I'm a platform engineer with nine years of experience in backend systems and infrastructure. I've worked on distributed storage, recommendation infrastructure, Kubernetes application delivery, and platforms for training and serving machine learning models. My experience also includes observability and incident response.
+I'm a platform engineer with nine years of experience in backend systems and infrastructure. My work spans Kubernetes application delivery, machine learning platforms, observability, and incident response. I focus on workload orchestration, lifecycle management, and operational automation.
+
+My open-source contributions span cloud native AI infrastructure, developer tools, and distributed databases.
 
 ### Looking for a Job
 
